@@ -1,0 +1,1 @@
+[Register to attend by **Date TBD**!]({{ "/register" | relative_url }})

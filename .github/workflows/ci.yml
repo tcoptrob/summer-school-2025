@@ -29,13 +29,13 @@ jobs:
         run: sudo apt-get install -y ruby-full build-essential zlib1g-dev
       - name: Install Jekyll
         run: |
-          echo 'gem: --user-install' >> ~/.gemrc
+          echo 'gem: --user-install' >> $HOME/.gemrc
+          echo 'BUNDLE_PATH: ~/.gem' >> $HOME/.bundle/config
+          echo 'BUNDLE_DISABLE_SHARED_GEMS: true' >> $HOME/.bundle/config
           export PATH=$HOME/.local/share/gem/ruby/3.2.0/bin:$PATH
           gem install jekyll bundler
       - name: Install deps and build website
         run: |
-          cat ~/.gemrc
-          echo 'gem: --user-install' >> ~/.gemrc
           export PATH=$HOME/.local/share/gem/ruby/3.2.0/bin:$PATH
           git config user.name github-actions
           git config user.email github-actions@github.com

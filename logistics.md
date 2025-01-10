@@ -27,3 +27,5 @@ Patras is a beautiful and historic city that offers a range of events and activi
 + Explore the Achaia Clauss Winery: Patras is known for its wine, and the Achaia Clauss Winery is a must-visit destination for wine lovers. Participants can take a tour of the winery, learn about the wine-making process, and enjoy a wine tasting experience.
 + Take a day trip to Olympia: Olympia, the birthplace of the Olympic Games, is located about 2 hours from Patras. Participants can take a day trip to visit the ancient site and learn about the history of the Olympics.
 Participants can take a break from the summer school and spend an afternoon relaxing on the beach which is a less than 10 minutes drive from the University Campus by bus.
+
+We will post the scheduled events soon.

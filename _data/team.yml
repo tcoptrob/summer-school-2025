@@ -60,7 +60,16 @@ organizers:
     image_url: "/assets/team/enrico.jpg"
 
 speakers:
-  - name: "Luca Carlone"
+  - name: "Kostas Alexis"
+    affiliation:
+      role: "Professor"
+      org_name: "Norwegian University of Science and Technology (NTNU)"
+      url: "https://www.autonomousrobotslab.com/"
+    website:
+      title: "Personal Website"
+      url: "https://www.ntnu.edu/employees/konstantinos.alexis"
+    image_url: "/assets/team/alexis.png"
+  - name: "Luca Carlone (TBC)"
     affiliation:
       role: "Associate Professor"
       org_name: "Massachusetts Institute of Technology (MIT)"

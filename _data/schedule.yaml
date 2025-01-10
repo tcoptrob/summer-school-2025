@@ -96,6 +96,10 @@ days:
       - time: "Afternoon"
         name: "Factor Graphs and SLAM"
     speakers:
+      - name: "Kostas Alexis"
+        affiliation:
+          name: "Norwegian University of Science and Technology (NTNU)"
+          website: "https://www.autonomousrobotslab.com/"
       - name: "Luca Carlone"
         affiliation:
           name: "Massachusetts Institute of Technology (MIT)"

@@ -19,11 +19,12 @@ The Optimization for Robotics Summer School will cover:
 2. A selection of robotics topics, including learning, control, state estimation, and simulation, from a unified optimization perspective.
 3. Instructor-guided hands-on coding exercises to gain practical experience.
 
-**Targeted Attendance:** 50-100 PhD students
+**Targeted Attendance:** 50-100 PhD students (or early career researchers/faculty)
 
 **Attendee Cost (Tentative):**
-+ Registration without accommodation: €350-400
-+ Registration with accommodation: €650-800
++ Registration without accommodation: €300-400
++ Travel awards and/or fee waivers will be given to selected students
+<!-- + Registration with accommodation: €650-800 -->
 
 ### Schedule
 Each day will consist of a mix of background on key topics, hands-on examples both in software and with select hardware deployments, and research talks from leaders in the field.

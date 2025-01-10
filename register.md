@@ -2,4 +2,4 @@
 title: Registration
 ---
 
-## Updates Coming Soon!
+## Coming Soon!

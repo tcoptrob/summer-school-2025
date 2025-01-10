@@ -31,8 +31,7 @@ jobs:
         run: |
           echo 'gem: --user-install' >> ~/.gemrc
           GEM_VERSION=$(gem -v)
-          echo 'export PATH="$HOME/.local/share/gem/ruby/$GEM_VERSION/bin:$PATH"' >> ~/.bashrc
-          source ~/.bashrc
+          export PATH=$HOME/.local/share/gem/ruby/$GEM_VERSION/bin:$PATH
           echo $PATH
           gem install jekyll bundler
       - name: Install deps and build website

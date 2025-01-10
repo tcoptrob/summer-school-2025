@@ -85,7 +85,7 @@ days:
       - name: "Konstantinos Chatzilygeroudis"
         affiliation:
           name: "University of Patras"
-          website: "https://www.upatras.gr/en/"
+          website: "https://lar.upatras.gr/"
 
   - number: "4"
     dayOfWeek: "Thursday"
@@ -107,7 +107,7 @@ days:
       - name: "Konstantinos Chatzilygeroudis"
         affiliation:
           name: "University of Patras"
-          website: "https://www.upatras.gr/en/"
+          website: "https://lar.upatras.gr/"
 
   - number: "5"
     dayOfWeek: "Friday"

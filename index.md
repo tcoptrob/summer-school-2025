@@ -4,7 +4,7 @@ title: Optimization for Robotics Summer School 2025
 
 # Welcome!
 
->Optimization for Robotics Summer School will be help from July 14-18 at the [University of Patras](https://www.upatras.gr/en/) in Patras, Greece.<br>[Register to attend by **TBD Date**]({{ "/register" | relative_url }})!
+>Optimization for Robotics Summer School will be help from July 14-18, 2025 at the [University of Patras](https://www.upatras.gr/en/) in Patras, Greece.<br>[Register to attend by **TBD Date**]({{ "/register" | relative_url }})!
 
 <div class="message">
   To learn more about the IEEE RAS TC on Model-Based Optimization for Robotics please visit <a href="https://tcoptrob.org">their webpage</a>!

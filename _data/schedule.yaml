@@ -22,10 +22,10 @@ days:
         affiliation:
           name: "Chalmers University and DFKI GmbH"
           website: "https://www.chalmers.se/en/"
-      - name: "Patrick Wensing"
-        affiliation:
-          name: "University of Notre Dame"
-          website: "https://www.nd.edu/"
+      # - name: "Patrick Wensing"
+      #   affiliation:
+      #     name: "University of Notre Dame"
+      #     website: "https://www.nd.edu/"
       # - name: "Brian Plancher"
       #   website: "https://brianplancher.com/"
       #   affiliation:
@@ -100,10 +100,10 @@ days:
         affiliation:
           name: "Norwegian University of Science and Technology (NTNU)"
           website: "https://www.autonomousrobotslab.com/"
-      - name: "Luca Carlone"
-        affiliation:
-          name: "Massachusetts Institute of Technology (MIT)"
-          website: "https://aeroastro.mit.edu/"
+      # - name: "Luca Carlone"
+      #   affiliation:
+      #     name: "Massachusetts Institute of Technology (MIT)"
+      #     website: "https://aeroastro.mit.edu/"
       - name: "Konstantinos Chatzilygeroudis"
         affiliation:
           name: "University of Patras"

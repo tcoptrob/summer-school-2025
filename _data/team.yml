@@ -69,15 +69,15 @@ speakers:
       title: "Personal Website"
       url: "https://www.ntnu.edu/employees/konstantinos.alexis"
     image_url: "/assets/team/alexis.png"
-  - name: "Luca Carlone (TBC)"
-    affiliation:
-      role: "Associate Professor"
-      org_name: "Massachusetts Institute of Technology (MIT)"
-      url: "https://aeroastro.mit.edu/"
-    website:
-      title: "Personal Website"
-      url: "https://lucacarlone.mit.edu/"
-    image_url: "/assets/team/luca.png"
+  # - name: "Luca Carlone (TBC)"
+  #   affiliation:
+  #     role: "Associate Professor"
+  #     org_name: "Massachusetts Institute of Technology (MIT)"
+  #     url: "https://aeroastro.mit.edu/"
+  #   website:
+  #     title: "Personal Website"
+  #     url: "https://lucacarlone.mit.edu/"
+  #   image_url: "/assets/team/luca.png"
 
   - name: "Yuval Tassa"
     affiliation:

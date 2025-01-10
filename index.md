@@ -1,5 +1,5 @@
 ---
-title: false
+title: Optimization for Robotics Summer School 2025
 ---
 
 # Welcome!
@@ -43,6 +43,13 @@ We would like to thank [**IEEE RAS Technical Education Programs**](https://www.i
 <figure class="figure">
   <left>
   <img src="{{ site.baseurl }}/assets/logos/ieeeras.png" alt="IEEE RAS" class="vid-fluid rounded center" width="500">
+  </left>
+</figure>
+
+#### Platinum Sponsors
+<figure class="figure">
+  <left>
+  <img src="{{ site.baseurl }}/assets/logos/eurobin.png" alt="euROBIN" class="vid-fluid rounded center" width="500">
   </left>
 </figure>
 

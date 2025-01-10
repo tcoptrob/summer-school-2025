@@ -44,8 +44,7 @@ jobs:
           bundle install
           bundle exec jekyll build
           git checkout docs
-          mv _site/* .
-          rm -r _site
+          cp -r _site/* . && rm -r _site
           git add .
           git commit -am "Update website"
           git push

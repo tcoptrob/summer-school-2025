@@ -30,6 +30,7 @@ jobs:
       - name: Install Jekyll
         run: |
           echo 'gem: --user-install' >> $HOME/.gemrc
+          mkdir -p $HOME/.bundle
           echo 'BUNDLE_PATH: ~/.gem' >> $HOME/.bundle/config
           echo 'BUNDLE_DISABLE_SHARED_GEMS: true' >> $HOME/.bundle/config
           export PATH=$HOME/.local/share/gem/ruby/3.2.0/bin:$PATH

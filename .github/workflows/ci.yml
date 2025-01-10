@@ -1,0 +1,46 @@
+# https://help.github.com/en/articles/workflow-syntax-for-github-actions
+
+name: CI Website Summer School 2025
+
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+    branches:
+      - master
+
+jobs:
+  build:
+    if: github.event_name != 'workflow_dispatch'
+    name: OS:${{ matrix.os }}
+    runs-on: ${{ matrix.os }}
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-20.04]
+    env:
+      CI_HOME: ${{github.workspace}}
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - name: Install Ubuntu packages
+        run: sudo apt-get install -y ruby-full build-essential zlib1g-dev
+      - name: Install Jekyll
+        run: |
+          echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
+          echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
+          source ~/.bashrc
+          gem install jekyll bundler
+      - name: Install deps and build website
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          cd ${{github.workspace}}
+          bundle install
+          bundle exec jekyll build
+          git checkout docs
+          git add .
+          git commit -am "Update website"
+          git push

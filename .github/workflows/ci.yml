@@ -30,15 +30,11 @@ jobs:
       - name: Install Jekyll
         run: |
           echo 'gem: --user-install' >> ~/.gemrc
-          GEM_VERSION=$(gem -v)
-          export PATH=$HOME/.local/share/gem/ruby/$GEM_VERSION/bin:$PATH
-          echo $PATH
+          export PATH=$HOME/.local/share/gem/ruby/3.2.0/bin:$PATH
           gem install jekyll bundler
       - name: Install deps and build website
         run: |
-          GEM_VERSION=$(gem -v)
-          export PATH=$HOME/.local/share/gem/ruby/$GEM_VERSION/bin:$PATH
-          echo $PATH
+          export PATH=$HOME/.local/share/gem/ruby/3.2.0/bin:$PATH
           git config user.name github-actions
           git config user.email github-actions@github.com
           cd ${{github.workspace}}

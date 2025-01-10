@@ -44,7 +44,7 @@ jobs:
           bundle install
           bundle exec jekyll build
           git checkout docs
-          cp -r _site/* . && rm -r _site
+          cp -r _site/* . && rm -r _site && rm Gemfile.lock
           git add .
           git commit -am "Update website"
           git push

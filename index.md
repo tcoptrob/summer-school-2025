@@ -37,7 +37,7 @@ Each day will consist of a mix of background on key topics, hands-on examples bo
 Contact us at [costashatz@upatras.gr](mailto:costashatz@upatras.gr) with any questions regarding the summer school.
 
 ### Supporters and Sponsors
-We would like to thank [**IEEE RAS Technical Education Programs**](https://www.ieee-ras.org/educational-resources-outreach/technical-education-programs), and the [**AI-Hub at the University of Patras**](https://aigroup.ceid.upatras.gr/) for their leadership and support of our workshop!
+We would like to thank [**IEEE RAS Technical Education Programs**](https://www.ieee-ras.org/educational-resources-outreach/technical-education-programs), [**euROBIN**](https://www.eurobin-project.eu), and the [**AI-Hub at the University of Patras**](https://aigroup.ceid.upatras.gr/) for their leadership and support of our summer school!
 
 #### Diamond Sponsors
 <figure class="figure">

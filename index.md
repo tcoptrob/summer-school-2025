@@ -39,6 +39,8 @@ Contact us at [costashatz@upatras.gr](mailto:costashatz@upatras.gr) with any que
 ### Supporters and Sponsors
 We would like to thank [**IEEE RAS Technical Education Programs**](https://www.ieee-ras.org/educational-resources-outreach/technical-education-programs), [**euROBIN**](https://www.eurobin-project.eu), and the [**AI-Hub at the University of Patras**](https://aigroup.ceid.upatras.gr/) for their leadership and support of our summer school!
 
+>**Want to become a sponsor?** Check how to support our summer school [here]({{ "/sponsorship" | relative_url }}).
+
 #### Diamond Sponsors
 <figure class="figure">
   <left>

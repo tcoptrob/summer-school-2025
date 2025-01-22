@@ -22,7 +22,10 @@ The Optimization for Robotics Summer School will cover:
 **Targeted Attendance:** 50-100 PhD students (or early career researchers/faculty)
 
 **Attendee Cost (Tentative):**
-+ Registration without accommodation: €300-400
++ Registration without accommodation:
+   + Early-bird: €350
+   + Standard: €450
+   + Late/On-site: €500
 + Travel awards and/or fee waivers will be given to selected students
 <!-- + Registration with accommodation: €650-800 -->
 

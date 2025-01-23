@@ -41,7 +41,7 @@ Each day will consist of a mix of background on key topics, hands-on examples bo
 Contact us at [costashatz@upatras.gr](mailto:costashatz@upatras.gr) with any questions regarding the summer school.
 
 ### Supporters and Sponsors
-We would like to thank [**IEEE RAS Technical Education Programs**](https://www.ieee-ras.org/educational-resources-outreach/technical-education-programs), [**euROBIN**](https://www.eurobin-project.eu), and the [**AI-Hub at the University of Patras**](https://aigroup.ceid.upatras.gr/) for their leadership and support of our summer school!
+We would like to thank [**IEEE RAS Technical Education Programs**](https://www.ieee-ras.org/educational-resources-outreach/technical-education-programs), [**euROBIN**](https://www.eurobin-project.eu), the [**AI-Hub at the University of Patras**](https://aigroup.ceid.upatras.gr/), and [**Kotronis Packaging**](https://www.kotronis.gr) for their support to our summer school!
 
 >**Want to become a sponsor?** Check how to support our summer school [here]({{ "/sponsorship" | relative_url }}).
 
@@ -63,5 +63,11 @@ We would like to thank [**IEEE RAS Technical Education Programs**](https://www.i
 <figure class="figure">
   <left>
   <img src="{{ site.baseurl }}/assets/logos/patrasAIhub.png" alt="UPatras AI-Hub" class="vid-fluid rounded center" width="300">
+  </left>
+</figure>
+
+<figure class="figure">
+  <left>
+  <img src="{{ site.baseurl }}/assets/logos/kotronis-logo.png" alt="Kotronis Packaging" class="vid-fluid rounded center" width="500">
   </left>
 </figure>

@@ -65,7 +65,6 @@ We would like to thank [**IEEE RAS Technical Education Programs**](https://www.i
   <img src="{{ site.baseurl }}/assets/logos/patrasAIhub.png" alt="UPatras AI-Hub" class="vid-fluid rounded center" width="300">
   </left>
 </figure>
-
 <figure class="figure">
   <left>
   <img src="{{ site.baseurl }}/assets/logos/kotronis-logo.png" alt="Kotronis Packaging" class="vid-fluid rounded center" width="500">

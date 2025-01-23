@@ -7,7 +7,8 @@ title: Optimization for Robotics Summer School 2025
 >Optimization for Robotics Summer School will be held from July 14-18, 2025 at the [University of Patras](https://www.upatras.gr/en/) in Patras, Greece.<br>[Register to attend by **TBD Date**]({{ "/register" | relative_url }})!
 
 <div class="message">
-  To learn more about the IEEE RAS TC on Model-Based Optimization for Robotics please visit <a href="https://tcoptrob.org">their webpage</a>!
+  To learn more about the IEEE RAS TC on Model-Based Optimization for Robotics please visit <a href="https://tcoptrob.org">their webpage</a>!<br/>
+  To learn more about the IEEE RAS TC on Whole-Body Control please visit <a href="https://ieeewbc.org">their webpage</a>!
 </div>
 
 Optimization algorithms form the bedrock of much of robotics, from machine learning to control, state estimation, and simulation. However, the research literature on these topics is vast and different communities often use different notation and terminology to describe similar ideas, making it difficult to see the deep connections between these areas. 

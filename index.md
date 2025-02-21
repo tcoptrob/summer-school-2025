@@ -4,7 +4,7 @@ title: Optimization for Robotics Summer School 2025
 
 # Welcome!
 
->Optimization for Robotics Summer School will be held from July 14-18, 2025 at the [University of Patras](https://www.upatras.gr/en/) in Patras, Greece.<br>[Register to attend (Early-bird until **1st April 2025**)]({{ "https://forms.gle/tTiUR6sAfHp5TWicA" }})! See the [Applicant Selection Procedure]({{ "/waivers" | relative_url }}) for details.
+>Optimization for Robotics Summer School will be held from July 14-18, 2025 at the [University of Patras](https://www.upatras.gr/en/) in Patras, Greece.<br>[Register to attend (Early-bird until **1st April 2025**)]({{ "https://forms.gle/tTiUR6sAfHp5TWicA" }})! See the [Applicant Selection Procedure]({{ "/application" | relative_url }}) for details.
 
 <div class="message">
   To learn more about the IEEE RAS TC on Model-Based Optimization for Robotics please visit <a href="https://tcoptrob.org">their webpage</a>!<br/>
@@ -29,7 +29,7 @@ The Optimization for Robotics Summer School will cover:
    + Late/On-site: €500
 + Travel awards and/or fee waivers will be given to selected students
 
- See the [Applicant Selection Procedure]({{ "/waivers" | relative_url }}) for details.
+ See the [Applicant Selection Procedure]({{ "/application" | relative_url }}) for details.
 <!-- + Registration with accommodation: €650-800 -->
 
 ### Schedule

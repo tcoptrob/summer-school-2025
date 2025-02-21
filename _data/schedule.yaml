@@ -94,7 +94,10 @@ days:
         affiliation:
           name: "University of Patras"
           website: "https://lar.upatras.gr/"
-
+      - name: "Zachary Manchester"
+        affiliation:
+          name: "Carnegie Mellon University"
+          website: "https://rexlab.ri.cmu.edu/"
   - number: "4"
     dayOfWeek: "Thursday"
     name: "State Estimation and SLAM"

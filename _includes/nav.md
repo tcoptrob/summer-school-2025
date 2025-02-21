@@ -9,6 +9,6 @@
 * [Schedule]({{ "/#schedule" | relative_url }})
 July 14-18
 * [Logistics and Venue]({{ "/logistics" | relative_url }})
-* [Register]({{ "/register" | relative_url }})
+* [Applicant Selection]({{ "/waivers" | relative_url }})
 * [Sponsor the School]({{ "/sponsorship" | relative_url }})
 * [Organizers and Speakers]({{ "/team" | relative_url }})

@@ -1,1 +1,1 @@
-[Register to attend by **Date TBD**!]({{ "/register" | relative_url }})
+[Register to attend (Early-bird until **1st April 2025**)]({{ "https://forms.gle/tTiUR6sAfHp5TWicA" }}).  See the [Applicant Selection Procedure]({{ "/waivers" | relative_url }}) for details.

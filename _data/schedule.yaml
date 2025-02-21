@@ -14,10 +14,14 @@ days:
       - time: "Afternoon"
         name: "Introduction to Optimization Algorithms"
     speakers:
-      - name: "Zachary Manchester"
+      - name: "Konstantinos Chatzilygeroudis"
         affiliation:
-          name: "Carnegie Mellon University"
-          website: "https://rexlab.ri.cmu.edu/"
+          name: "University of Patras"
+          website: "https://lar.upatras.gr/"
+      # - name: "Zachary Manchester"
+      #   affiliation:
+      #     name: "Carnegie Mellon University"
+      #     website: "https://rexlab.ri.cmu.edu/"
       - name: "Shivesh Kumar"
         affiliation:
           name: "Chalmers University and DFKI GmbH"
@@ -26,11 +30,11 @@ days:
       #   affiliation:
       #     name: "University of Notre Dame"
       #     website: "https://www.nd.edu/"
-      # - name: "Brian Plancher"
-      #   website: "https://brianplancher.com/"
-      #   affiliation:
-      #     name: "Barnard College, Columbia University"
-      #     website: "https://barnard.edu/"
+      - name: "Brian Plancher"
+        website: "https://brianplancher.com/"
+        affiliation:
+          name: "Barnard College, Columbia University"
+          website: "https://barnard.edu/"
       #   links:
       #     - title: "Google Slides"
       #       url: "https://docs.google.com/presentation/d/1_QLwOgnZLqyXRAJxxJYI6bhM8vO2Q_pm_EzQkwI71AE/"
@@ -47,6 +51,10 @@ days:
       - time: "Afternoon"
         name: "Real-Time Model-Predictive Control for Robotics"
     speakers:
+      # - name: "Zachary Manchester"
+      #   affiliation:
+      #     name: "Carnegie Mellon University"
+      #     website: "https://rexlab.ri.cmu.edu/"
       - name: "Enrico Mingo Hoffman"
         affiliation:
           name: "INRIA Nancy Grand-Est"

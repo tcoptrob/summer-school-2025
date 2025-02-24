@@ -3,11 +3,12 @@ title: Logistics (Accommodations, Transportation)
 ---
 
 ## Accommodations and Transportation:
-We have contacted 3 hotels within a walking distance of the conference hall and the University Campus, and will have reduced rates available for participants.
+<!-- We have contacted 3 hotels within a walking distance of the conference hall and the University Campus, and will have reduced rates available for participants. -->
 
 We will provide bus transportation from Athens airport to and from the hotels and University campus on the designated arrival and departure days. Participants may also choose to take public buses or private taxis to Patras as well. Patras is about a two and a half hour drive from Athens.
 
 ## Meals and Social Events:
+
 We will provide two coffee breaks and lunch for participants each day and will have select evening activities. We will also organize a reception event and a dinner. More details will be posted soon.
 
 ## Venue

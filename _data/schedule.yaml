@@ -71,12 +71,12 @@ days:
 
   - number: "3"
     dayOfWeek: "Wednesday"
-    name: "Reinforcement Learning and Simulation"
+    name: "Reinforcement Learning and Optimal Control"
     schedule:
       - time: "Morning"
         name: "From Optimal Control to Reinforcement Learning"
       - time: "Afternoon"
-        name: "Differentiable Simulation for Robotics"
+        name: "Combining Reinforcement Learning and Optimal Control"
     speakers:
       - name: "Andrea Del Prete"
         affiliation:
@@ -94,18 +94,14 @@ days:
         affiliation:
           name: "University of Patras"
           website: "https://lar.upatras.gr/"
-      - name: "Zachary Manchester"
-        affiliation:
-          name: "Carnegie Mellon University"
-          website: "https://rexlab.ri.cmu.edu/"
   - number: "4"
     dayOfWeek: "Thursday"
-    name: "State Estimation and SLAM"
+    name: "State Estimation and Simulation"
     schedule:
       - time: "Morning"
         name: "Algorithms for SLAM and Recursive Estimation"
       - time: "Afternoon"
-        name: "Factor Graphs and SLAM"
+        name: "Differentiable Simulation for Robotics"
     speakers:
       - name: "Kostas Alexis"
         affiliation:
@@ -115,6 +111,10 @@ days:
       #   affiliation:
       #     name: "Massachusetts Institute of Technology (MIT)"
       #     website: "https://aeroastro.mit.edu/"
+      - name: "Zachary Manchester"
+        affiliation:
+          name: "Carnegie Mellon University"
+          website: "https://rexlab.ri.cmu.edu/"
       - name: "Konstantinos Chatzilygeroudis"
         affiliation:
           name: "University of Patras"

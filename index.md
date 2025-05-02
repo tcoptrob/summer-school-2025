@@ -20,7 +20,7 @@ The Optimization for Robotics Summer School will cover:
 2. A selection of robotics topics, including learning, control, state estimation, and simulation, from a unified optimization perspective.
 3. Instructor-guided hands-on coding exercises to gain practical experience.
 
-**Targeted Attendance:** 50-100 master students, PhD students or early career researchers/faculty
+**Targeted Attendance:** 100 master students, PhD students or early career researchers/faculty
 
 **Attendee Cost:**
 + Registration without accommodation:

@@ -4,7 +4,9 @@ title: Optimization for Robotics Summer School 2025
 
 # Welcome!
 
->Optimization for Robotics Summer School will be held from July 14-18, 2025 at the [University of Patras](https://www.upatras.gr/en/) in Patras, Greece.<br>[Register to attend (Early-bird until **1st April 2025**)]({{ "https://forms.gle/tTiUR6sAfHp5TWicA" }})! See the [Applicant Selection Procedure]({{ "/application" | relative_url }}) for details.
+>Optimization for Robotics Summer School will be held from July 14-18, 2025 at the [University of Patras](https://www.upatras.gr/en/) in Patras, Greece.
+
+<!-- <br>[Register to attend (Early-bird until **1st April 2025**)]({{ "https://forms.gle/tTiUR6sAfHp5TWicA" }})! See the [Applicant Selection Procedure]({{ "/application" | relative_url }}) for details. -->
 
 <div class="message">
   To learn more about the IEEE RAS TC on Model-Based Optimization for Robotics please visit <a href="https://tcoptrob.org">their webpage</a>!<br/>
@@ -43,7 +45,7 @@ Each day will consist of a mix of background on key topics, hands-on examples bo
 Contact us at [costashatz@upatras.gr](mailto:costashatz@upatras.gr) with any questions regarding the summer school.
 
 ### Supporters and Sponsors
-We would like to thank [**IEEE RAS Technical Education Programs**](https://www.ieee-ras.org/educational-resources-outreach/technical-education-programs), [**Google DeepMind**](https://deepmind.google/), [**euROBIN**](https://www.eurobin-project.eu), the [**AI-Hub at the University of Patras**](https://aigroup.ceid.upatras.gr/), [**Mitsubishi Electric Research Laboratories**](https://www.merl.com/), and [**Kotronis Packaging**](https://www.kotronis.gr) for their support to our summer school!
+We would like to thank [**IEEE RAS Technical Education Programs**](https://www.ieee-ras.org/educational-resources-outreach/technical-education-programs), [**Google DeepMind**](https://deepmind.google/), [**euROBIN**](https://www.eurobin-project.eu), [**bitcraze**](https://www.bitcraze.io), the [**AI-Hub at the University of Patras**](https://aigroup.ceid.upatras.gr/), [**Mitsubishi Electric Research Laboratories**](https://www.merl.com), and [**Kotronis Packaging**](https://www.kotronis.gr) for their support to our summer school!
 
 >**Want to become a sponsor?** Check how to support our summer school [here]({{ "/sponsorship" | relative_url }}).
 
@@ -64,6 +66,13 @@ We would like to thank [**IEEE RAS Technical Education Programs**](https://www.i
 <figure class="figure">
   <left>
   <img src="{{ site.baseurl }}/assets/logos/eurobin.png" alt="euROBIN" class="vid-fluid rounded center" width="500">
+  </left>
+</figure>
+
+#### Gold Sponsors
+<figure class="figure">
+  <left>
+  <img src="{{ site.baseurl }}/assets/logos/bitcraze.png" alt="bitcraze" class="vid-fluid rounded center" width="500">
   </left>
 </figure>
 

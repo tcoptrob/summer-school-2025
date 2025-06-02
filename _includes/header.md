@@ -8,13 +8,14 @@ Optimization for Robotics Summer School<br>
 <a style="text-decoration:none" href="http://www.ieee-ras.org/">
   <img src="{{ '/assets/logos/ieeeras.png' | relative_url }}" alt="IEEERAS" style="height: 2.4rem">
 </a>
+<br/><br/>
 <a style="text-decoration:none" href="https://sites.google.com/g.upatras.gr/ai-hub/">
   <img src="{{ '/assets/logos/patrasAIhub2.png' | relative_url }}" alt="UPatras AI-Hub" style="height: 2.8rem">
 </a>
-<br/><br/>
 <a style="text-decoration:none" href="https://www.inria.fr/en">
   <img src="{{ '/assets/logos/inria.png' | relative_url }}" alt="INRIA" style="height: 2.8rem">
 </a>
+<br/><br/>
 <a style="text-decoration:none" href="https://cs.barnard.edu">
   <img src="{{ '/assets/logos/barnard.png' | relative_url }}" alt="Barnard College" style="height: 2.8rem">
 </a>
@@ -28,22 +29,20 @@ Optimization for Robotics Summer School<br>
 <a style="text-decoration:none" href="https://www.ri.cmu.edu/">
   <img src="{{ '/assets/logos/cmu.png' | relative_url }}" alt="Robotics Institute Carnegie Mellon University" style="height: 2.8rem">
 </a>
+<br/><br/>
 <a style="text-decoration:none" href="https://www.nd.edu/">
   <img src="{{ '/assets/logos/notredame.png' | relative_url }}" alt="University of Notre Dame" style="height: 2.8rem">
 </a>
-
-<br/><br/>
 <a style="text-decoration:none" href="https://deepmind.google">
   <img src="{{ '/assets/logos/deepmind-small.png' | relative_url }}" alt="Google DeepMind" style="height: 2.8rem">
 </a>
+<br/><br/>
 <a style="text-decoration:none" href="https://www.eurobin-project.eu">
   <img src="{{ '/assets/logos/eurobin.png' | relative_url }}" alt="euROBIN" style="height: 2.8rem">
 </a>
-<br/><br/>
 <a style="text-decoration:none" href="https://www.bitcraze.io">
   <img src="{{ '/assets/logos/bitcraze.png' | relative_url }}" alt="bitcraze" style="height: 2.8rem">
 </a>
-
 <br/><br/>
 <a style="text-decoration:none" href="https://www.merl.com">
   <img src="{{ '/assets/logos/merl.png' | relative_url }}" alt="Mitsubishi Electric Research Laboratories" style="height: 2.8rem">

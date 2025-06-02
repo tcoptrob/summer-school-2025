@@ -10,5 +10,5 @@ baseurl: /summer-school-2025
 
 title: 2025 Optimization for Robotics Summer School
 
-alert:
-    - success
+# alert:
+#     - success

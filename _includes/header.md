@@ -9,15 +9,15 @@ Optimization for Robotics Summer School<br>
   <img src="{{ '/assets/logos/ieeeras.png' | relative_url }}" alt="IEEERAS" style="height: 2.4rem">
 </a>
 <br/><br/>
-<a style="text-decoration:none" href="https://sites.google.com/g.upatras.gr/ai-hub/">
-  <img src="{{ '/assets/logos/patrasAIhub2.png' | relative_url }}" alt="UPatras AI-Hub" style="height: 2.8rem">
-</a>
 <a style="text-decoration:none" href="https://www.inria.fr/en">
   <img src="{{ '/assets/logos/inria.png' | relative_url }}" alt="INRIA" style="height: 2.8rem">
 </a>
-<br/><br/>
 <a style="text-decoration:none" href="https://cs.barnard.edu">
   <img src="{{ '/assets/logos/barnard.png' | relative_url }}" alt="Barnard College" style="height: 2.8rem">
+</a>
+<br/><br/>
+<a style="text-decoration:none" href="https://sites.google.com/g.upatras.gr/ai-hub/">
+  <img src="{{ '/assets/logos/patrasAIhub2.png' | relative_url }}" alt="UPatras AI-Hub" style="height: 2.8rem">
 </a>
 <a style="text-decoration:none" href="https://www.chalmers.se/en/">
   <img src="{{ '/assets/logos/chalmers.png' | relative_url }}" alt="Chalmers University of Technology" style="height: 2.8rem">

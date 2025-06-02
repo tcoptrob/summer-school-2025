@@ -40,6 +40,7 @@ Optimization for Robotics Summer School<br>
 <a style="text-decoration:none" href="https://www.eurobin-project.eu">
   <img src="{{ '/assets/logos/eurobin.png' | relative_url }}" alt="euROBIN" style="height: 2.8rem">
 </a>
+<br/><br/>
 <a style="text-decoration:none" href="https://www.bitcraze.io">
   <img src="{{ '/assets/logos/bitcraze.png' | relative_url }}" alt="bitcraze" style="height: 2.8rem">
 </a>

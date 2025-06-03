@@ -48,3 +48,7 @@ Optimization for Robotics Summer School<br>
 <a style="text-decoration:none" href="https://www.merl.com">
   <img src="{{ '/assets/logos/merl.png' | relative_url }}" alt="Mitsubishi Electric Research Laboratories" style="height: 2.8rem">
 </a>
+<br/><br/>
+<a style="text-decoration:none" href="https://www.cubemars.com">
+  <img src="{{ '/assets/logos/cubemars.png' | relative_url }}" alt="CubeMars" style="height: 2.8rem">
+</a>

@@ -89,7 +89,7 @@ We would like to thank [**IEEE RAS Technical Education Programs**](https://www.i
 </figure>
 <figure class="figure">
   <left>
-  <img src="{{ site.baseurl }}/assets/logos/cubmars.png" alt="CubeMars" class="vid-fluid rounded center" width="500">
+  <img src="{{ site.baseurl }}/assets/logos/cubemars.png" alt="CubeMars" class="vid-fluid rounded center" width="500">
   </left>
 </figure>
 <figure class="figure">

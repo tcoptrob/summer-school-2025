@@ -53,5 +53,5 @@ Optimization for Robotics Summer School<br>
   <img src="{{ '/assets/logos/cubemars.png' | relative_url }}" alt="CubeMars" style="height: 2.8rem">
 </a>
 <a style="text-decoration:none" href="https://versatile-robotics.com">
-  <img src="{{ '/assets/logos/versatile_small.png' | relative_url }}" alt="Versatile Robotics" style="height: 3.4rem">
+  <img src="{{ '/assets/logos/versatile_banner.png' | relative_url }}" alt="Versatile Robotics" style="height: 2.8rem">
 </a>

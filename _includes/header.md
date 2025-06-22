@@ -33,8 +33,9 @@ Optimization for Robotics Summer School<br>
 <a style="text-decoration:none" href="https://www.nd.edu/">
   <img src="{{ '/assets/logos/notredame.png' | relative_url }}" alt="University of Notre Dame" style="height: 2.8rem">
 </a>
+<br/><br/>
 <a style="text-decoration:none" href="https://deepmind.google">
-  <img src="{{ '/assets/logos/deepmind-small.png' | relative_url }}" alt="Google DeepMind" style="height: 2.8rem">
+  <img src="{{ '/assets/logos/gdm.png' | relative_url }}" alt="Google DeepMind" style="height: 2.8rem">
 </a>
 <br/><br/>
 <a style="text-decoration:none" href="https://www.eurobin-project.eu">

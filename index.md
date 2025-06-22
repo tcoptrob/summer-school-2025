@@ -58,7 +58,7 @@ We would like to thank [**IEEE RAS Technical Education Programs**](https://www.i
 
 <figure class="figure">
   <left>
-  <img src="{{ site.baseurl }}/assets/logos/deepmind.png" alt="Google DeepMind" class="vid-fluid rounded center" width="800">
+  <img src="{{ site.baseurl }}/assets/logos/gdm.png" alt="Google DeepMind" class="vid-fluid rounded center" width="800">
   </left>
 </figure>
 

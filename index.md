@@ -4,6 +4,12 @@ title: Optimization for Robotics Summer School 2025
 
 # Welcome!
 
+<figure class="figure">
+  <left>
+  <img src="{{ site.baseurl }}/assets/logos/optrob25_logo.png" alt="OptRob25" class="vid-fluid rounded center" width="500">
+  </left>
+</figure>
+
 >Optimization for Robotics Summer School will be held from July 14-18, 2025 at the [University of Patras](https://www.upatras.gr/en/) in Patras, Greece.
 
 <!-- <br>[Register to attend (Early-bird until **1st April 2025**)]({{ "https://forms.gle/tTiUR6sAfHp5TWicA" }})! See the [Applicant Selection Procedure]({{ "/application" | relative_url }}) for details. -->
@@ -26,18 +32,22 @@ The Optimization for Robotics Summer School will cover:
 
 **Attendee Cost:**
 + Registration without accommodation:
-   + Early-bird (until April 1st 2025): €350
-   + Standard: €450
-   + Late/On-site: €500
+   + ~~Early-bird (until April 1st 2025): €350~~
+   + ~~Standard: €450~~
+   + ~~Late/On-site: €500~~
 + Travel awards and/or fee waivers will be given to selected students
 
  See the [Applicant Selection Procedure]({{ "/application" | relative_url }}) for details.
+
+ **Update:** We are fully booked! Thank you for your interest!
 <!-- + Registration with accommodation: €650-800 -->
 
 ### Schedule
 Each day will consist of a mix of background on key topics, hands-on examples both in software and with select hardware deployments, and research talks from leaders in the field.
 
-**Draft Schedule (Subject to Change)**
+**Schedule Overview**
+
+A schedule overview follows in the table. The full detailed schedule is available [**here**](https://docs.google.com/spreadsheets/d/1UsML7kxi9HQ4M8Hh9mxuN4EcK6snoWDQ9gaC0X3tabo).
 
 {% include schedule_table table_data = site.data.schedule %}
 

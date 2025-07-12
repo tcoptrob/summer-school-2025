@@ -10,9 +10,11 @@ days:
     name: "Optimization Background"
     schedule:
       - time: "Morning"
-        name: "Introduction to Numerical Optimization"
+        name: "Introduction to Optimization I"
+      - time: "Noon"
+        name: "Introduction to Optimization II"
       - time: "Afternoon"
-        name: "Introduction to Optimization Algorithms"
+        name: "Introduction to Robotics & Dynamics"
     speakers:
       - name: "Konstantinos Chatzilygeroudis"
         affiliation:
@@ -30,11 +32,11 @@ days:
       #   affiliation:
       #     name: "University of Notre Dame"
       #     website: "https://www.nd.edu/"
-      - name: "Brian Plancher"
-        website: "https://brianplancher.com/"
-        affiliation:
-          name: "Barnard College, Columbia University"
-          website: "https://barnard.edu/"
+      # - name: "Brian Plancher"
+      #   website: "https://brianplancher.com/"
+      #   affiliation:
+      #     name: "Dartmouth College"
+      #     website: "https://home.dartmouth.edu/"
       #   links:
       #     - title: "Google Slides"
       #       url: "https://docs.google.com/presentation/d/1_QLwOgnZLqyXRAJxxJYI6bhM8vO2Q_pm_EzQkwI71AE/"
@@ -47,7 +49,9 @@ days:
     name: "Optimal Control"
     schedule:
       - time: "Morning"
-        name: "Trajectory Optimization and Numerical Optimal Control"
+        name: "Trajectory Optimization and Numerical Optimal Control I"
+      - time: "Noon"
+        name: "Trajectory Optimization and Numerical Optimal Control II"
       - time: "Afternoon"
         name: "Real-Time Model-Predictive Control for Robotics"
     speakers:
@@ -55,41 +59,47 @@ days:
       #   affiliation:
       #     name: "Carnegie Mellon University"
       #     website: "https://rexlab.ri.cmu.edu/"
-      - name: "Enrico Mingo Hoffman"
-        affiliation:
-          name: "INRIA Nancy Grand-Est"
-          website: "https://www.inria.fr/fr"
-      - name: "Brian Plancher"
-        website: "https://brianplancher.com/"
-        affiliation:
-          name: "Barnard College, Columbia University"
-          website: "https://barnard.edu/"
-      - name: "Hae-Won Park"
+      # - name: "Enrico Mingo Hoffman"
+      #   affiliation:
+      #     name: "INRIA Nancy Grand-Est"
+      #     website: "https://www.inria.fr/fr"
+      - name: "Hae-Won Park (Plenary Speaker)"
         affiliation:
           name: "Korea Advanced Institute of Science & Technology (KAIST)"
           website: "https://www.kaist.ac.kr/en/"
+      - name: "Brian Plancher"
+        website: "https://brianplancher.com/"
+        affiliation:
+          name: "Dartmouth College"
+          website: "https://home.dartmouth.edu/"
 
   - number: "3"
     dayOfWeek: "Wednesday"
     name: "Reinforcement Learning and Optimal Control"
     schedule:
       - time: "Morning"
-        name: "From Optimal Control to Reinforcement Learning"
+        name: "Real-Time Model-Predictive Control for Robotics"
+      - time: "Noon"
+        name: "Introduction to Reinforcement Learning"
       - time: "Afternoon"
         name: "Combining Reinforcement Learning and Optimal Control"
     speakers:
+      - name: "Enrico Mingo Hoffman"
+        affiliation:
+          name: "INRIA Nancy Grand-Est"
+          website: "https://www.inria.fr/fr"
       - name: "Andrea Del Prete"
         affiliation:
           name: "University of Trento"
           website: "https://www.dii.unitn.it/"
-      - name: "Yuval Tassa"
-        affiliation:
-          name: "Google DeepMind"
-          website: "https://deepmind.google/"
-      - name: "Tom Erez"
-        affiliation:
-          name: "Google DeepMind"
-          website: "https://deepmind.google/"
+      # - name: "Yuval Tassa"
+      #   affiliation:
+      #     name: "Google DeepMind"
+      #     website: "https://deepmind.google/"
+      # - name: "Tom Erez"
+      #   affiliation:
+      #     name: "Google DeepMind"
+      #     website: "https://deepmind.google/"
       - name: "Konstantinos Chatzilygeroudis"
         affiliation:
           name: "University of Patras"
@@ -99,11 +109,11 @@ days:
     name: "State Estimation and Simulation"
     schedule:
       - time: "Morning"
-        name: "Algorithms for SLAM and Recursive Estimation"
+        name: "State Estimation for Robotics"
       - time: "Afternoon"
         name: "Differentiable Simulation for Robotics"
     speakers:
-      - name: "Kostas Alexis"
+      - name: "Kostas Alexis (Plenary Speaker)"
         affiliation:
           name: "Norwegian University of Science and Technology (NTNU)"
           website: "https://www.autonomousrobotslab.com/"
@@ -115,21 +125,29 @@ days:
         affiliation:
           name: "Carnegie Mellon University"
           website: "https://rexlab.ri.cmu.edu/"
+      # - name: "Konstantinos Chatzilygeroudis"
+      #   affiliation:
+      #     name: "University of Patras"
+      #     website: "https://lar.upatras.gr/"
+
+  - number: "5"
+    dayOfWeek: "Friday"
+    name: "Hands-On Sessions (Simulation and Hardware)"
+    schedule:
+      - time: "Morning"
+        name: "The new Human Centered Robotics team at Inria Nancy: from humanoids to exoskeletons (Plenary Talk)"
+      - time: "All day"
+        name: "Hands-On Sessions and Deployment on Robots"
+    speakers:
+      - name: "Serena Ivaldi (Plenary Speaker)"
+        affiliation:
+          name: "INRIA Nancy Grand-Est"
+          website: "https://www.inria.fr/fr"
       - name: "Konstantinos Chatzilygeroudis"
         affiliation:
           name: "University of Patras"
           website: "https://lar.upatras.gr/"
-
-  - number: "5"
-    dayOfWeek: "Friday"
-    name: "Hardware Hackathon"
-    schedule:
-      - time: "Morning"
-        name: "Algorithm Implementation and Validation in Realistic Simulation"
-      - time: "Afternoon"
-        name: "Deployment on Robots"
-    speakers:
-      - name: "Serena Ivaldi"
+      - name: "Shivesh Kumar"
         affiliation:
-          name: "INRIA Nancy Grand-Est"
-          website: "https://www.inria.fr/fr"
+          name: "Chalmers University and DFKI GmbH"
+          website: "https://www.chalmers.se/en/"

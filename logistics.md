@@ -9,7 +9,7 @@ We will provide bus transportation from Athens airport to and from the hotels an
 
 ## Meals and Social Events:
 
-We will provide two coffee breaks and lunch for participants each day and will have select evening activities. We will also organize a reception event and a dinner. More details will be posted soon.
+We will provide two coffee breaks and lunch for participants each day and will have select evening activities. We will also organize a welcoming, a farewell event and a dinner. The full schedule is available [**here**](https://docs.google.com/spreadsheets/d/1UsML7kxi9HQ4M8Hh9mxuN4EcK6snoWDQ9gaC0X3tabo).
 
 ## Venue
 
@@ -23,10 +23,14 @@ The University of Patras campus is located in Rio, a suburb of the city of Patra
   </center>
 </figure>
 
-Patras is a beautiful and historic city that offers a range of events and activities that can accompany the summer school. Here are some possible events and activities:
+Patras is a beautiful and historic city that offers a range of events and activities that can accompany the summer school.
+
+We have arranged a day trip to Olympia: Olympia, the birthplace of the Olympic Games, is located about 2 hours from Patras. Participants can take a day trip to visit the ancient site and learn about the history of the Olympics.
+
+<!-- Here are some possible events and activities:
 + Visit the Ancient Roman Amphitheatre: Patras has a well-preserved Ancient Roman Amphitheatre, which is still used for performances and events today.
 + Explore the Achaia Clauss Winery: Patras is known for its wine, and the Achaia Clauss Winery is a must-visit destination for wine lovers. Participants can take a tour of the winery, learn about the wine-making process, and enjoy a wine tasting experience.
 + Take a day trip to Olympia: Olympia, the birthplace of the Olympic Games, is located about 2 hours from Patras. Participants can take a day trip to visit the ancient site and learn about the history of the Olympics.
-Participants can take a break from the summer school and spend an afternoon relaxing on the beach which is a less than 10 minutes drive from the University Campus by bus.
++ Participants can take a break from the summer school and spend an afternoon relaxing on the beach which is a less than 10 minutes drive from the University Campus by bus.
 
-We will post the scheduled events soon.
+We will post the scheduled events soon. -->

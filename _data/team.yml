@@ -32,8 +32,8 @@ organizers:
   - name: "Brian Plancher"
     affiliation:
       role: "Assistant Professor"
-      org_name: "Barnard College, Columbia University"
-      url: "https://barnard.edu/"
+      org_name: "Dartmouth College, Columbia University"
+      url: "https://home.dartmouth.edu/"
     website:
       title: "Personal Website"
       url: "https://brianplancher.com/"
@@ -79,25 +79,25 @@ speakers:
   #     url: "https://lucacarlone.mit.edu/"
   #   image_url: "/assets/team/luca.png"
 
-  - name: "Yuval Tassa"
-    affiliation:
-      role: "Senior Research Scientist"
-      org_name: "Google DeepMind"
-      url: "https://deepmind.google/"
-    website:
-      title: "LinkedIn"
-      url: "https://uk.linkedin.com/in/yuval-tassa-0ba2924a"
-    image_url: "/assets/team/yuval.jpeg"
+  # - name: "Yuval Tassa"
+  #   affiliation:
+  #     role: "Senior Research Scientist"
+  #     org_name: "Google DeepMind"
+  #     url: "https://deepmind.google/"
+  #   website:
+  #     title: "LinkedIn"
+  #     url: "https://uk.linkedin.com/in/yuval-tassa-0ba2924a"
+  #   image_url: "/assets/team/yuval.jpeg"
 
-  - name: "Tom Erez"
-    affiliation:
-      role: "Research Scientist"
-      org_name: "Google DeepMind"
-      url: "https://deepmind.google/"
-    website:
-      title: "LinkedIn"
-      url: "https://uk.linkedin.com/in/ereztom"
-    image_url: "/assets/team/tom.jpeg"
+  # - name: "Tom Erez"
+  #   affiliation:
+  #     role: "Research Scientist"
+  #     org_name: "Google DeepMind"
+  #     url: "https://deepmind.google/"
+  #   website:
+  #     title: "LinkedIn"
+  #     url: "https://uk.linkedin.com/in/ereztom"
+  #   image_url: "/assets/team/tom.jpeg"
     
   - name: "Hae-Won Park"
     affiliation:

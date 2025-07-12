@@ -50,10 +50,8 @@ days:
     schedule:
       - time: "Morning"
         name: "Trajectory Optimization and Numerical Optimal Control I"
-      - time: "Noon"
-        name: "Trajectory Optimization and Numerical Optimal Control II"
       - time: "Afternoon"
-        name: "Real-Time Model-Predictive Control for Robotics"
+        name: "Trajectory Optimization and Numerical Optimal Control II"
     speakers:
       # - name: "Zachary Manchester"
       #   affiliation:

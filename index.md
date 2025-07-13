@@ -42,6 +42,10 @@ The Optimization for Robotics Summer School will cover:
  **Update:** We are fully booked! Thank you for your interest!
 <!-- + Registration with accommodation: €650-800 -->
 
+### Venue \& Social Events
+
+All the activities (except for the dinner) of the summer school will happen in the [**Conference & Cultural Center of the University of Patras**](http://www.confer.upatras.gr/abouten.php). More details about the social events and the venue can be found [here]({{ "/logistics" | relative_url }}).
+
 ### Schedule
 Each day will consist of a mix of background on key topics, hands-on examples both in software and with select hardware deployments, and research talks from leaders in the field.
 

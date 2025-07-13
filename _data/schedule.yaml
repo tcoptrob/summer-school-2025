@@ -50,6 +50,8 @@ days:
     schedule:
       - time: "Morning"
         name: "Trajectory Optimization and Numerical Optimal Control I"
+      - time: "Noon"
+        name: "Versatile and Dynamic Legged Robots: From Hardware Design to Control Algorithms (Plenary Talk)"
       - time: "Afternoon"
         name: "Trajectory Optimization and Numerical Optimal Control II"
     speakers:
@@ -107,9 +109,9 @@ days:
     name: "State Estimation and Simulation"
     schedule:
       - time: "Morning"
-        name: "State Estimation for Robotics"
-      - time: "Afternoon"
         name: "Differentiable Simulation for Robotics"
+      - time: "Afternoon"
+        name: "State Estimation for Robotics"
     speakers:
       - name: "Kostas Alexis (Plenary Speaker)"
         affiliation:

@@ -50,6 +50,8 @@ All the activities (except for the dinner) of the summer school will happen in t
 
 The lecture slides and other material (e.g. code) will be becoming available [here](https://tinyurl.com/optrob25).
 
+Code for most of the practicals will also be available through a [GitHub repository](https://github.com/upatras-lar/optrob25-practicals).
+
 ### Schedule
 Each day will consist of a mix of background on key topics, hands-on examples both in software and with select hardware deployments, and research talks from leaders in the field.
 

@@ -110,6 +110,8 @@ days:
     schedule:
       - time: "Morning"
         name: "Differentiable Simulation for Robotics"
+      - time: "Noon"
+        name: "Resilient Multi-modal Perception"
       - time: "Afternoon"
         name: "State Estimation for Robotics"
     speakers:

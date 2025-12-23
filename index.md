@@ -10,7 +10,7 @@ title: Optimization for Robotics Summer School 2025
   </left>
 </figure>
 
->Optimization for Robotics Summer School will be held from July 14-18, 2025 at the [University of Patras](https://www.upatras.gr/en/) in Patras, Greece.
+>Optimization for Robotics Summer School was held from July 14-18, 2025 at the [University of Patras](https://www.upatras.gr/en/) in Patras, Greece.
 
 <!-- <br>[Register to attend (Early-bird until **1st April 2025**)]({{ "https://forms.gle/tTiUR6sAfHp5TWicA" }})! See the [Applicant Selection Procedure]({{ "/application" | relative_url }}) for details. -->
 
@@ -48,9 +48,11 @@ All the activities (except for the dinner) of the summer school will happen in t
 
 ### Slides and Other Material
 
-The lecture slides and other material (e.g. code) will be becoming available [here](https://tinyurl.com/optrob25).
+The lecture slides and other material will be becoming available [here](https://tinyurl.com/optrob25).
 
 Code for most of the practicals will also be available through a [GitHub repository](https://github.com/upatras-lar/optrob25-practicals).
+
+All the recordings from the lectures are available [here](https://www.youtube.com/playlist?list=PL6YqvXk7hmsk0jkSrJYq7x7oq7maJyqJ-).
 
 ### Schedule
 Each day will consist of a mix of background on key topics, hands-on examples both in software and with select hardware deployments, and research talks from leaders in the field.
